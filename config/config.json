@@ -1,0 +1,8 @@
+{
+    "name": "mugrosobot",
+    "author": "botmugroso",
+    "prefix": "!",
+    "timezone": "Asia/Jakarta",
+    "groups": true,
+    "log": true
+}
